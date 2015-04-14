@@ -12,18 +12,34 @@
 	position:absolute;
 	left:8px;
 	top:23px;
-	width:98px;
-	height:159px;
+	width:97px;
+	height:58px;
 	z-index:1;
 }
 #apDiv2 {
 	position:absolute;
-	left:130px;
-	top:27px;
-	width:361px;
-	height:327px;
+	left:177px;
+	top:71px;
+	width:414px;
+	height:280px;
 	z-index:2;
 }td img {display: block;}
+#apDiv3 {
+	position:absolute;
+	left:141px;
+	top:19px;
+	width:25px;
+	height:49px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:-22px;
+	top:71px;
+	width:197px;
+	height:151px;
+	z-index:3;
+}
 </style>
 <script language="JavaScript1.2" type="text/javascript">
 <!--
@@ -77,39 +93,15 @@ function MM_preloadImages() { //v3.0
 </head>
 
 <body>
-<div id="apDiv1">
-  <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="96">
-    <!-- fwtable fwsrc="Planningcitebuttons.png" fwpage="Page 1" fwbase="Planningcitebuttons.gif" fwstyle="Dreamweaver" fwdocid = "747546554" fwnested="0" -->
-    <tr>
-      <td><img src="../images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="73" height="1" border="0" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="20" height="1" border="0" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td rowspan="4"><img name="Planningcitebuttons_r1_c1" src="../images/Planningcitebuttons_r1_c1.gif" width="1" height="253" border="0" id="Planningcitebuttons_r1_c1" alt="" /></td>
-      <td colspan="2"><a href="../Makinghomepages.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Planningcitebuttons_r1_c2','images/Planningcitebuttons_r1_c2_s2.gif','images/Planningcitebuttons_r1_c2_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','Planningcitebuttons_r1_c2','images/Planningcitebuttons_r1_c2_s3.gif',1);"><img name="Planningcitebuttons_r1_c2" src="../images/Planningcitebuttons_r1_c2.gif" width="74" height="61" border="0" id="Planningcitebuttons_r1_c2" alt="" /></a></td>
-      <td rowspan="2" colspan="2"><img name="Planningcitebuttons_r1_c4" src="../images/Planningcitebuttons_r1_c4.gif" width="21" height="63" border="0" id="Planningcitebuttons_r1_c4" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="61" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img name="Planningcitebuttons_r2_c2" src="../images/Planningcitebuttons_r2_c2.gif" width="74" height="2" border="0" id="Planningcitebuttons_r2_c2" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="2" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td rowspan="2"><img name="Planningcitebuttons_r3_c2" src="../images/Planningcitebuttons_r3_c2.gif" width="1" height="190" border="0" id="Planningcitebuttons_r3_c2" alt="" /></td>
-      <td colspan="2">&nbsp;</td>
-      <td rowspan="2"><img name="Planningcitebuttons_r3_c5" src="../images/Planningcitebuttons_r3_c5.gif" width="20" height="190" border="0" id="Planningcitebuttons_r3_c5" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img name="Planningcitebuttons_r4_c3" src="../images/Planningcitebuttons_r4_c3.gif" width="74" height="126" border="0" id="Planningcitebuttons_r4_c3" alt="" /></td>
-      <td><img src="../images/spacer.gif" width="1" height="126" border="0" alt="" /></td>
-    </tr>
-  </table>
-</div>
+<div id="apDiv4"><ul>
+<li><a href="file:///Macintosh HD/Users/CTD-01/Desktop/Sara-www./GitHubRepo/CTDPlanningSiteSRowaily/flowchart%3Awireframe.html">Wireframe/Flowchart</a></li>
+<li><a href="file:///Macintosh HD/Users/CTD-01/Desktop/Sara-www./GitHubRepo/CTDPlanningSiteSRowaily/Creatingsub-pages.html">Creating </a></li>
+<li></li>
+<li><a href="file:///Macintosh HD/Users/CTD-01/Desktop/Sara-www./GitHubRepo/CTDPlanningSiteSRowaily/Creatingsub-pages.html">Sub-pages</a></li>
+<li></li>
+<li><a href="file:///Macintosh HD/Users/CTD-01/Desktop/Sara-www./GitHubRepo/CTDPlanningSiteSRowaily/Navigationtext.html">Navigation</a></li>
+</ul></div>
 <div id="apDiv2"><!-- TemplateBeginEditable name="Web-page content" -->Web-page content<!-- TemplateEndEditable --></div>
+<a href="../Makinghomepages.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Planningcitebuttons_r1_c2','images/Planningcitebuttons_r1_c2_s2.gif','images/Planningcitebuttons_r1_c2_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','Planningcitebuttons_r1_c2','images/Planningcitebuttons_r1_c2_s3.gif',1);"><img name="Planningcitebuttons_r1_c2" src="../images/Planningcitebuttons_r1_c2.gif" width="83" height="61" border="0" id="Planningcitebuttons_r1_c2" alt="" /></a>
 </body>
 </html>
